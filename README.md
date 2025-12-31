@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaapan/kaapan/master/assets/programmer.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="500" />
 </p>
 
 <p align="center">
