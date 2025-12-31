@@ -70,7 +70,7 @@
   </a>
   
   <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
   </a>
   
   <a href="https://www.mysql.com/" target="_blank"> 
@@ -88,9 +88,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OSAMA-ALI-SOFTWARE-ENGINEER&show_icons=true&theme=tokyonight&hide_border=true" alt="Osama's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OSAMA-ALI-SOFTWARE-ENGINEER&show_icons=true&theme=tokyonight" alt="Osama's Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OSAMA-ALI-SOFTWARE-ENGINEER&theme=tokyonight&hide_border=true" alt="Osama's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OSAMA-ALI-SOFTWARE-ENGINEER&theme=tokyonight" alt="Osama's Streak" />
 </div>
 
 <h3 align="center">Here's a random engineering quote:</h3>
