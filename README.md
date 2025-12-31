@@ -14,17 +14,17 @@
 
 <div align="center">
  
-  • 👨‍💻 I’m a **Software Engineer** based in **Pakistan**[cite: 1, 9].
+  • 👨‍💻 I’m a **Software Engineer** based in **Pakistan**.
   <br>
   • 🚀 Currently working as a **Sr. WordPress Full Stack Developer** at **DevCubix Pvt Ltd**.
   <br>
-  • 🛠️ Specializing in **Custom Theme/Plugin Development, PHP, and React.js**[cite: 77, 78, 137].
+  • 🛠️ Specializing in **Custom Theme/Plugin Development, PHP, and React.js**.
   <br>
   • 🌱 Currently expanding my skills in **MERN Stack and Next.js**.
   <br>
-  • 📫 Reach me at **osama.websecure@gmail.com**[cite: 13].
+  • 📫 Reach me at **osama.websecure@gmail.com**.
   <br>
-  • ⚡ Career Highlight: **4 Years Experience** across **5 Companies**[cite: 21, 23].
+  • ⚡ Career Highlight: **4 Years Experience** across **5 Companies**.
 
 </div>
 
@@ -68,9 +68,11 @@
   <a href="https://www.php.net" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
+  
   <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
   </a>
+  
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
@@ -86,9 +88,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OSAMA-ALI-SOFTWARE-ENGINEER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Osama's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OSAMA-ALI-SOFTWARE-ENGINEER&show_icons=true&theme=tokyonight&hide_border=true" alt="Osama's Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OSAMA-ALI-SOFTWARE-ENGINEER&theme=tokyonight&hide_border=true&background=0D1117" alt="Osama's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OSAMA-ALI-SOFTWARE-ENGINEER&theme=tokyonight&hide_border=true" alt="Osama's Streak" />
 </div>
 
 <h3 align="center">Here's a random engineering quote:</h3>
@@ -97,5 +99,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/OSAMA-ALI-SOFTWARE-ENGINEER/OSAMA-ALI-SOFTWARE-ENGINEER/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/OSAMA-ALI-SOFTWARE-ENGINEER/OSAMA-ALI-SOFTWARE-ENGINEER/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
