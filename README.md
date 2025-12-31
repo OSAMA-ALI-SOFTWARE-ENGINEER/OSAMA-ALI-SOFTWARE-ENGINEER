@@ -87,11 +87,11 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OSAMA-ALI-SOFTWARE-ENGINEER&show_icons=true&theme=tokyonight" alt="Osama's Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OSAMA-ALI-SOFTWARE-ENGINEER&theme=tokyonight" alt="Osama's Streak" />
-</div>
+</div> -->
 
 <h3 align="center">Here's a random engineering quote:</h3>
 <p align="center">
