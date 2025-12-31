@@ -14,6 +14,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kaapan/kaapan/master/assets/programmer.gif" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
+</p>
 <h3 align="center">A passionate Developer converting ideas into reality.</h3>
 
 <div align="center">
@@ -100,6 +107,10 @@
 <h3 align="center">Here's a random engineering quote:</h3>
 <p align="center">
 <img align="center" height="150px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
 </p>
 
 <p align="center">
