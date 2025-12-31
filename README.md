@@ -20,7 +20,7 @@
   <br>
   • 🛠️ Specializing in **Custom Theme/Plugin Development, PHP, and MERN Stack Developer**.
   <br>
-  • 🌱 Currently expanding my skills in **MERN Stack and Next.js**.
+  • 🌱 Currently expanding my skills in **MEVN Stack and Shopify Custom Dev**.
   <br>
   • 📫 Reach me at **osama.websecure@gmail.com**.
   <br>
