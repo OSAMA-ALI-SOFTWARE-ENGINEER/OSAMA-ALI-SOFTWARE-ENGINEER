@@ -99,5 +99,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/OSAMA-ALI-SOFTWARE-ENGINEER/OSAMA-ALI-SOFTWARE-ENGINEER/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
