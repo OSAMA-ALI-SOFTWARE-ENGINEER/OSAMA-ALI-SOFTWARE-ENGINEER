@@ -18,7 +18,7 @@
   <br>
   • 🚀 Currently working as a **Sr. WordPress Full Stack Developer** at **DevCubix Pvt Ltd**.
   <br>
-  • 🛠️ Specializing in **Custom Theme/Plugin Development, PHP, and React.js**.
+  • 🛠️ Specializing in **Custom Theme/Plugin Development, PHP, and MERN Stack Developer**.
   <br>
   • 🌱 Currently expanding my skills in **MERN Stack and Next.js**.
   <br>
