@@ -45,6 +45,9 @@
   <a href="https://linkedin.com/in/osama-alibs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+   <a href="https://osama-ali.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=mega&logoColor=white" target="_blank" />
+  </a>
   <a href="https://osama-ali.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=mega&logoColor=white" target="_blank" />
   </a>
