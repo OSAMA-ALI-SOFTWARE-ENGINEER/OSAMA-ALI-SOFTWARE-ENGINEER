@@ -57,54 +57,35 @@
 
 <h3 align="center">💻 Languages and Tools</h3>
 
-<div align="center">
+<p align="center">
 
-<table>
-<tr>
-<td align="center" style="padding: 10px;">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</td>
-<td align="center" style="padding: 10px;">
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</td>
-<td align="center" style="padding: 10px;">
-  <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-</td>
-<td align="center" style="padding: 10px;">
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white" />
-</td>
-</tr>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white" />
 
-<tr>
-<td align="center" style="padding: 10px;">
-  <img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
-</td>
-<td align="center" style="padding: 10px;">
-  <img src="https://img.shields.io/badge/WordPress-111111?style=for-the-badge&logo=wordpress&logoColor=21759B" />
-</td>
-<td align="center" style="padding: 10px;">
-  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4" />
-</td>
-<td align="center" style="padding: 10px;">
-  <img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-</td>
-</tr>
+<br><br>
 
-<tr>
-<td align="center" style="padding: 10px;">
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-</td>
-<td align="center" style="padding: 10px;">
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
-</td>
-<td align="center" style="padding: 10px;">
-  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-</td>
-</tr>
+<img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/WordPress-111111?style=for-the-badge&logo=wordpress&logoColor=21759B" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
 
-</table>
+<br><br>
 
-</div>
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+
+</p>
 <!-- <h3 align="center">💻 Languages and Tools</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
