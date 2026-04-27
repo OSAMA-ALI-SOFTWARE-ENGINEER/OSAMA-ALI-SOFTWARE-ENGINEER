@@ -60,29 +60,25 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white" />
-
-<br><br>
-
+&nbsp;
 <img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://img.shields.io/badge/WordPress-111111?style=for-the-badge&logo=wordpress&logoColor=21759B" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-
-<br><br>
-
+&nbsp;
 <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 
 </p>
