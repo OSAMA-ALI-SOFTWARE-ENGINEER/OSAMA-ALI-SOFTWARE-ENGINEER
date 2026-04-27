@@ -57,65 +57,58 @@
 
 <h3 align="center">💻 Languages and Tools</h3>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 20px; max-width: 600px; margin: auto;">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=1e1e1e" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=1e1e1e" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white&labelColor=1e1e1e" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white&labelColor=1e1e1e" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=1e1e1e" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=1e1e1e" />
+    </td>
+  </tr>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white&labelColor=1e1e1e" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black&labelColor=1e1e1e" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white&labelColor=1e1e1e" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white&labelColor=1e1e1e" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white&labelColor=1e1e1e" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=1e1e1e" />
+    </td>
+  </tr>
 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://greensock.com/gsap/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://wordpress.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.php.net" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  </a>
-
-</div>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=1e1e1e" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&labelColor=1e1e1e" />
+    </td>
+  </tr>
+</table>
 
 <!-- <h3 align="center">💻 Languages and Tools</h3>
 <p align="center">
